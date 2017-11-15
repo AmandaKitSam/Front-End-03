@@ -2,7 +2,7 @@
 
 ## By Amanda Sam
 
-### The project involves: HTML5, CSS3, Bootstrap(v4.0.0-beta.2), JavaScript and JS libraries
+### The project involves: HTML5, CSS3, Bootstrap (v4.0.0-beta.2), JavaScript and JS libraries
 
 ### Overview:
 
