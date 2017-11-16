@@ -212,10 +212,21 @@ body, html {
   background-color: #ffffff;
 }
 
+#customers .carousel-indicators li {
+  background-color: #fe5656;
+}
 
+#customers .carousel-inner {
+  margin-bottom: 50px;
+}
 
+#customers .carousel-indicators {
+  margin-bottom: -50px; /* 3 red lines */
+}
 
-
+#quotes .fa {
+  color: #e9bb18;
+}
 
 
 
