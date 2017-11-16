@@ -1,7 +1,9 @@
-body {
+body, html {
   font-family: 'Saira Semi Condensed', sans-serif;
   background-color: #c7c7c7;
+  height: 100%;
 }
+/*-- Set html & each section -> height: 100% -> then section fill 100% --*/
 
 
 /*------------------ Navbar ------------------*/
@@ -18,10 +20,24 @@ body {
   color: #fe5656;
 }
 
-/*- Navbar Icon for Mobile -*/
+/*-- Navbar Icon for Mobile --*/
 .navbar-toggler-icon {
   color: #ffffff;
 }
+
+
+/*------------------ Header ------------------*/
+#header {
+  background: url(../img/stars-bg.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  color: #ffffff;
+}
+
+
+
+
+
 
 
 /*--------------- Footer Section ---------------*/
