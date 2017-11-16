@@ -63,6 +63,7 @@ body, html {
   color: #fe5656;
   border: 2px solid #fa4848;
   border-radius: 30px;
+  transition: all 0.4s ease-in-out;
 }
 
 #header .btn-red:hover {
