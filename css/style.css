@@ -228,6 +228,10 @@ body, html {
   color: #e9bb18;
 }
 
+.blockquote-footer {
+  background-color: #2e2e2e;
+  color: #f0efef;
+}
 
 
 
