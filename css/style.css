@@ -115,7 +115,7 @@ body, html {
   #social {
     text-align: center;
   }
-  #social hr {
+  #social hr, #who hr {
     margin: 6% auto; /* auto -> equal on either side */
   }
 }
@@ -143,6 +143,22 @@ body, html {
   color: #fe5656;
   cursor: pointer;
 }
+
+/*-------------- WHO: Media Queries --------------*/
+@media (max-width: 768px) {
+  #who {
+    text-align: center;
+  }
+  #who img {
+    margin-top: 15%;
+  }
+}
+
+
+/*------------------------ 4. ------------------------*/
+
+
+
 
 
 
