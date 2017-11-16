@@ -60,6 +60,18 @@ body, html {
   color: #e7e3e3;
 }
 
+#header .btn-red {
+  color: #fe5656;
+  border: 2px solid #fa4848;
+  border-radius: 30px;
+}
+
+#header .btn-red:hover {
+  background-color: #fe5656;
+  border: 2px solid #fa4848;
+  color: #ffffff;
+}
+
 /*-------------- Header: Media Queries --------------*/
 @media (max-width: 768px) {
   #header {
@@ -69,10 +81,18 @@ body, html {
 
 
 /*------------------ Social ------------------*/
-#social h2 {
-  
+#social {
+  padding: 5.25rem 0;
 }
 
+#social .fa {
+  font-size: 2.5em;
+  color: #fe5656;
+  border: 2px solid #fe5656;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+}
 
 
 
@@ -84,7 +104,7 @@ body, html {
 
 /*--------------- Footer Section ---------------*/
 footer {
-  position: fixed;
+  position: relative;
   bottom: 0;
   left: 0;
   right: 0;
