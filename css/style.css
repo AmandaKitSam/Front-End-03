@@ -42,8 +42,23 @@ body, html {
   width: 80%;
 }
 
+#header .header-right {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  border-radius: 10px;
+}
 
+#header .fa {
+  margin: 5% 0;
+}
 
+#header a .fa {
+  color: #ffffff;
+}
+
+#header a .fa:hover {
+  color: #e7e3e3;
+}
 
 
 
