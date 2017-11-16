@@ -194,6 +194,19 @@ body, html {
 }
 
 
+/*------------------------ 5. WHY ------------------------*/
+#why {
+  padding: 5rem 0;
+  background-color: #f6f6f6;
+}
+
+#why .fa {
+  color: #fe5656;
+}
+
+
+
+
 
 
 
