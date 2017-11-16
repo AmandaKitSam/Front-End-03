@@ -5,7 +5,7 @@ body, html {
 /*-- Set html & each section -> height: 100% -> then section fill 100% --*/
 
 
-/*------------------ Navbar ------------------*/
+/*------------------------ NAVBAR ------------------------*/
 .navbar {
   background-color: rgba(21, 32, 33, 0.5);
   border-bottom: 1px solid #dedede;
@@ -25,7 +25,7 @@ body, html {
 }
 
 
-/*------------------ Header ------------------*/
+/*------------------------ 1. HEADER ------------------------*/
 #header {
   background: url(../img/stars-bg.jpg) center center no-repeat;
   background-size: cover;
@@ -69,9 +69,10 @@ body, html {
   background-color: #fe5656;
   border: 2px solid #fa4848;
   color: #ffffff;
+  cursor: pointer;
 }
 
-/*-------------- Header: Media Queries --------------*/
+/*-------------- HEADER: Media Queries --------------*/
 @media (max-width: 768px) {
   #header {
     text-align: center;
@@ -82,9 +83,9 @@ body, html {
 }
 
 
-/*------------------ Social ------------------*/
+/*------------------------ 2. SOCIAL ------------------------*/
 #social {
-  padding: 5.25rem 0;
+  padding: 5rem 0;
 }
 
 #social .fa {
@@ -109,7 +110,7 @@ body, html {
   text-align: center; /* Make icons in the middle of the col */
 }
 
-/*-------------- Social: Media Queries --------------*/
+/*-------------- SOCIAL: Media Queries --------------*/
 @media (max-width: 768px) {
   #social {
     text-align: center;
@@ -117,6 +118,30 @@ body, html {
   #social hr {
     margin: 6% auto; /* auto -> equal on either side */
   }
+}
+
+
+/*------------------------ 3. WHO ------------------------*/
+#who {
+  padding: 5rem 0;
+  background-color: #f6f6f6;
+}
+
+#who .btn-who {
+  background-color: #fe5656;
+  color: #ffffff;
+  padding: 10px 50px;
+  border-radius: 30px;
+  box-shadow: 0px 2.5px 2px 2.5px #a1a1a1;
+  transition: all 0.4s ease-in-out;
+}
+
+#who .btn-who:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: transparent;
+  border: 1.5px solid #fe5656;
+  color: #fe5656;
+  cursor: pointer;
 }
 
 
