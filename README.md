@@ -6,9 +6,11 @@
 
 ### Overview:
 
-- THIS IS MY PROJECT OF FRONT-END
+- I can build a great quality landing page with animations.
 
 - It is a responsive and mobile-first project.
+
+- Learnt new classes and features in Bootstrap v4.0.0-beta.2
 
 -------------------------------------------
 
