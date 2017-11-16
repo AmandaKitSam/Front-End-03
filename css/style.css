@@ -60,6 +60,17 @@ body, html {
   color: #e7e3e3;
 }
 
+/*-------------- Header: Media Queries --------------*/
+@media (max-width: 768px) {
+  #header {
+    text-align: center;
+  }
+}
+
+
+
+
+
 
 
 /*--------------- Footer Section ---------------*/
