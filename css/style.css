@@ -1,6 +1,5 @@
 body, html {
   font-family: 'Saira Semi Condensed', sans-serif;
-  background-color: #c7c7c7;
   height: 100%;
 }
 /*-- Set html & each section -> height: 100% -> then section fill 100% --*/
@@ -104,6 +103,10 @@ body, html {
 #social .fa:hover {
   color: #ffffff;
   background-color: #fe5656;
+}
+
+#social .list-inline {
+  text-align: center; /* Make icons in the middle of the col */
 }
 
 /*-------------- Social: Media Queries --------------*/
