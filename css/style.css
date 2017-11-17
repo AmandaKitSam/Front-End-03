@@ -241,8 +241,26 @@ body, html {
   background-color: #f6f6f6;
 }
 
+#pricing .card .card-header {
+  background-color: #6e6e6e;
+  color: #ffffff;
+  transition: all 0.4s ease-in-out;
+}
 
+#pricing .card .standard {
+  background-color: #fe5656;
+  font-size: 1.3em;
+  padding: 15px 0;
+}
 
+#pricing .card:hover {
+  border: 1px solid #6e6e6e;
+  transition: all 0.4s ease-in-out;
+}
+
+#pricing .card .card-header:hover {
+  background-color: #fe5656;
+}
 
 
 
