@@ -216,6 +216,8 @@ body, html {
 
 #customers .carousel-indicators li {
   background-color: #fe5656;
+  border: 15px solid #fe5656;
+  border-radius: 50px;
 }
 
 #customers .carousel-inner {
@@ -224,9 +226,10 @@ body, html {
 
 #customers .carousel-indicators {
   margin-bottom: -50px; /* 3 red lines */
+  cursor:pointer;
 }
 
-#quotes .fa {
+#customers .fa {
   color: #e9bb18;
 }
 
