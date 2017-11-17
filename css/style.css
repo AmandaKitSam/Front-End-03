@@ -253,14 +253,17 @@ body, html {
   padding: 15px 0;
 }
 
-#pricing .card:hover {
-  border: 1px solid #6e6e6e;
-  transition: all 0.4s ease-in-out;
-}
-
 #pricing .card .card-header:hover {
   background-color: #fe5656;
 }
+
+#pricing .card:hover {
+  box-shadow: 10px 12px 10px 1px #888888;
+  border: 0px;
+  transition: all 0.4s ease-in-out;
+}
+
+
 
 
 
