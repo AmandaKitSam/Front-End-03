@@ -211,6 +211,7 @@ body, html {
 #customers {
   padding: 5rem 0;
   background-color: #ffffff;
+  overflow: hidden; /* Helps the animation starts from this section; not from the section below */
 }
 
 #customers .carousel-indicators li {
