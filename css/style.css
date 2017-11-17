@@ -247,14 +247,14 @@ body, html {
   transition: all 0.4s ease-in-out;
 }
 
-#pricing .card .standard {
-  background-color: #fe5656;
-  font-size: 1.3em;
-  padding: 15px 0;
-}
-
 #pricing .card .card-header:hover {
   background-color: #fe5656;
+  transition: all 0.4s ease-in-out;
+}
+
+#pricing .card {
+  margin-top: 20px;
+  transition: all 0.4s ease-in-out;
 }
 
 #pricing .card:hover {
@@ -262,6 +262,17 @@ body, html {
   border: 0px;
   transition: all 0.4s ease-in-out;
 }
+
+#pricing .card .standard {
+  background-color: #fe5656;
+  font-size: 1.3em;
+  padding: 15px 0;
+}
+
+
+
+
+
 
 
 
