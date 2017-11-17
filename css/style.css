@@ -279,16 +279,25 @@ body, html {
 
 /*------------------------ FOOTER ------------------------*/
 #footer {
-  padding: 4rem 0;
+  padding: 2rem 0;
   background-color: #202020;
   color: #ffffff;
 }
 
 #footer a {
   color: #fe5656;
+  transition: all 0.2s ease-in-out;
 }
 
+#footer a:hover {
+  color: #fb4444;
+  transition: all 0.2s ease-in-out;
+}
 
+#footer .fa {
+  padding: 0 10px;
+  font-size: 1.3em;
+}
 
 
 
