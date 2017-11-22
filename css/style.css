@@ -32,7 +32,8 @@ body, html {
 
 /*------------------------ 1. HEADER ------------------------*/
 #header {
-  background: url(../img/stars-bg.jpg) center center no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/stars-bg.jpg);
+  /*background: url(../img/stars-bg.jpg) center center no-repeat;*/
   background-size: cover;
   height: 100%;
   color: #ffffff;
