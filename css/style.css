@@ -34,12 +34,18 @@ body, html {
 #header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/stars-bg.jpg);
   /*background: url(../img/stars-bg.jpg) center center no-repeat;*/
-  background-size: cover;
   height: 100%;
   color: #ffffff;
   /*-- Bootstrap4 -> flexbox options added: set display & align-items --*/
   display: flex;
   align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Parallax Effect */
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 #header img {
