@@ -2,15 +2,15 @@
 
 ## By Amanda Sam
 
-### The project involves: HTML5, CSS3, Bootstrap (v4.0.0-beta.2), JavaScript and JS libraries
+### Built with HTML5, CSS3, Bootstrap (v4.0.0-beta.2), JavaScript and JS libraries
 
 ### Overview:
 
-- I can build a great quality landing page with animations.
+- Build a great quality landing page with animations.
 
 - It is a responsive and mobile-first project.
 
-- Learnt new classes and features in Bootstrap v4.0.0-beta.2
+- Learn new classes and features in Bootstrap v4.0.0-beta.2
 
 -------------------------------------------
 
