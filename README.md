@@ -4,7 +4,8 @@
 
 ### Built with HTML5, CSS3, Bootstrap (v4.0.0-beta.2), JavaScript and JS libraries
 
-### Overview:
+### Overview
+#### A landing page for a digital agency
 
 - Build a great quality landing page with animations.
 
@@ -12,7 +13,8 @@
 
 - Learn new classes and features in Bootstrap v4.0.0-beta.2
 
--------------------------------------------
 
-Please visit the website:<br/>
+---
+
+Check out the demo here<br/>
 https://amandakitsam.github.io/Front-End-03/
